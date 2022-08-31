@@ -6,7 +6,7 @@ namespace TreinoManipulacaoClasses
     {
         static void Main(string[] args)
         {
-            Pessoa tchola = new Pessoa();
+            Pessoa tchola = new Pessoa(); 
             tchola.FazerMedia();
             tchola.MostrarNaTela();
             tchola.VerAprovacao();
